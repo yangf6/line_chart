@@ -32,14 +32,14 @@ chartWrapper.datum(data).call(mychart)
 \#*chart*.**lineColor**(name)
 >Assign the `name` to the color of the line
 
-\#*chart*.**width(number)
+\#*chart*.**width**(number)
 >Adjust the `number` width to the chart
 
-\#*chart*.**height(number)
+\#*chart*.**height**(number)
 >Adjust the `number` height to the chart
 
-\#*chart*.**x (arr)
+\#*chart*.**x**(arr)
 >refill the x axis with value
 
-\#*chart*.**y = function(arr)
+\#*chart*.**y**(arr)
 >refil the y axis with value
